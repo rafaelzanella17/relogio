@@ -1,0 +1,28 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: content-box;
+  font-family: cursive
+}
+
+body {
+  display: grid;
+  height: 100vh;
+  justify-content: center;
+  border: 1px solid #000;
+  background-color: #212529;
+}
+
+.container {
+  margin-top: 15rem;
+  font-size: 7rem;
+  color: #d3d3d3;
+  font-weight: 600;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .container {
+    font-size: 4rem;
+  }
+}
