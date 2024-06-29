@@ -1,13 +1,16 @@
 # relogio
 Relógio Digital feito com HTML, CSS e JavaScript
 
-
-<h2>Tecnologias Utilizadas Neste Projeto</h2>
+<br>
+<h2>Tecnologias Utilizadas</h2>
 + HTML5
 + CSS3
 + JavaScript
 + Git
 
 <br>
+<br>
 
-<p>Relógio digital simples para treinar os conhecimentos básicos com a linguagem<mark>JavaScript<mark></p>
+<h4>Ver projeto, clique no link abaixo</h4>
+
+<a href="https://jocular-sprinkles-2f2209.netlify.app/" target="_blank">Relogio Digital</a>
